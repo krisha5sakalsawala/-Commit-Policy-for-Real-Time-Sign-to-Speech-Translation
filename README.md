@@ -1,5 +1,3 @@
-# -Commit-Policy-for-Real-Time-Sign-to-Speech-Translation
-
 # AI for Accessibility: Real-Time Sign-to-Speech Translation
 
 ## 📌 Overview
