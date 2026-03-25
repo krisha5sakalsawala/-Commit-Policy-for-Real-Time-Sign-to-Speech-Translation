@@ -1,0 +1,641 @@
+video_id,gloss_latency(s),text_latency(s),tts_latency(s),total_latency(s),pred_text,audio_path
+sample_0,0.045,0.03,0.702,0.778,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_0.mp3
+sample_1,0.067,0.031,0.683,0.78,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_1.mp3
+sample_2,0.058,0.014,0.34,0.412,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_2.mp3
+sample_3,0.053,0.014,0.359,0.426,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_3.mp3
+sample_4,0.053,0.026,0.546,0.626,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_4.mp3
+sample_5,0.06,0.024,0.637,0.722,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_5.mp3
+sample_6,0.04,0.014,0.33,0.383,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_6.mp3
+sample_7,0.056,0.014,0.37,0.441,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_7.mp3
+sample_8,0.017,0.014,0.29,0.321,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_8.mp3
+sample_9,0.051,0.009,0.287,0.347,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_9.mp3
+sample_10,0.029,0.018,0.289,0.336,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_10.mp3
+sample_11,0.035,0.017,0.303,0.355,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_11.mp3
+sample_12,0.028,0.016,0.219,0.263,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_12.mp3
+sample_13,0.035,0.017,0.23,0.282,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_13.mp3
+sample_14,0.029,0.016,0.216,0.262,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_14.mp3
+sample_15,0.037,0.023,0.377,0.438,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_15.mp3
+sample_16,0.026,0.014,0.303,0.344,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_16.mp3
+sample_17,0.027,0.035,0.723,0.786,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_17.mp3
+sample_18,0.051,0.017,0.261,0.33,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_18.mp3
+sample_19,0.054,0.022,0.274,0.35,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_19.mp3
+sample_20,0.04,0.018,0.303,0.362,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_20.mp3
+sample_21,0.021,0.016,0.307,0.344,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_21.mp3
+sample_22,0.066,0.024,0.257,0.349,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_22.mp3
+sample_23,0.036,0.036,0.483,0.555,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_23.mp3
+sample_24,0.011,0.016,0.302,0.329,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_24.mp3
+sample_25,0.042,0.026,0.725,0.794,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_25.mp3
+sample_26,0.04,0.032,0.595,0.668,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_26.mp3
+sample_27,0.045,0.01,0.513,0.569,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_27.mp3
+sample_28,0.057,0.03,0.566,0.654,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_28.mp3
+sample_29,0.027,0.05,1.139,1.215,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir noch auch noch am wärmsten haben wir haben wir auch noch auch auch am wärmsten haben wir auch auch im norden haben wir auch auch im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_29.mp3
+sample_30,0.025,0.048,0.32,0.393,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_30.mp3
+sample_31,0.073,0.032,0.723,0.828,aber auch tagsüber haben wir auch am am wärmsten im norden haben wir haben wir haben wir noch noch am haben wir haben wir auch noch auch auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_31.mp3
+sample_32,0.053,0.029,0.448,0.531,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_32.mp3
+sample_33,0.052,0.01,0.278,0.34,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_33.mp3
+sample_34,0.033,0.027,0.431,0.49,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_34.mp3
+sample_35,0.047,0.01,0.207,0.264,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_35.mp3
+sample_36,0.027,0.013,0.203,0.243,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_36.mp3
+sample_37,0.024,0.018,0.41,0.454,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_37.mp3
+sample_38,0.041,0.023,0.702,0.766,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_38.mp3
+sample_39,0.025,0.016,0.311,0.352,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_39.mp3
+sample_40,0.021,0.029,0.253,0.303,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_40.mp3
+sample_41,0.027,0.01,0.211,0.248,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_41.mp3
+sample_42,0.016,0.014,0.229,0.259,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_42.mp3
+sample_43,0.042,0.024,0.637,0.703,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_43.mp3
+sample_44,0.056,0.015,0.251,0.322,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_44.mp3
+sample_45,0.04,0.018,0.353,0.412,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_45.mp3
+sample_46,0.045,0.01,0.209,0.265,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_46.mp3
+sample_47,0.015,0.011,0.192,0.218,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_47.mp3
+sample_48,0.019,0.011,0.21,0.24,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_48.mp3
+sample_49,0.016,0.031,0.533,0.58,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_49.mp3
+sample_50,0.056,0.011,0.209,0.275,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_50.mp3
+sample_51,0.033,0.023,0.382,0.438,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_51.mp3
+sample_52,0.022,0.011,0.203,0.236,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_52.mp3
+sample_53,0.04,0.016,0.282,0.339,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_53.mp3
+sample_54,0.028,0.015,0.233,0.276,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_54.mp3
+sample_55,0.049,0.044,0.976,1.07,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir noch auch noch am wärmsten haben wir haben wir auch noch auch auch am wärmsten haben wir auch auch im norden haben wir auch auch im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_55.mp3
+sample_56,0.025,0.011,0.345,0.383,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_56.mp3
+sample_57,0.035,0.015,0.238,0.288,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_57.mp3
+sample_58,0.028,0.016,0.228,0.271,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_58.mp3
+sample_59,0.031,0.025,0.551,0.607,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_59.mp3
+sample_60,0.038,0.011,0.23,0.279,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_60.mp3
+sample_61,0.034,0.02,0.243,0.298,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_61.mp3
+sample_62,0.025,0.01,0.221,0.257,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_62.mp3
+sample_63,0.028,0.014,0.232,0.276,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_63.mp3
+sample_64,0.025,0.012,0.222,0.26,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_64.mp3
+sample_65,0.072,0.024,0.426,0.523,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_65.mp3
+sample_66,0.052,0.022,0.453,0.528,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_66.mp3
+sample_67,0.037,0.014,0.269,0.321,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_67.mp3
+sample_68,0.043,0.013,0.214,0.271,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_68.mp3
+sample_69,0.017,0.009,0.212,0.238,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_69.mp3
+sample_70,0.019,0.01,0.225,0.255,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_70.mp3
+sample_71,0.025,0.013,0.309,0.347,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_71.mp3
+sample_72,0.053,0.023,0.602,0.677,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_72.mp3
+sample_73,0.037,0.039,0.834,0.91,aber auch tagsüber haben wir auch am am wärmsten im norden haben wir haben wir haben wir noch noch am haben wir haben wir auch noch auch auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_73.mp3
+sample_74,0.04,0.014,0.238,0.292,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_74.mp3
+sample_75,0.022,0.016,0.265,0.304,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_75.mp3
+sample_76,0.054,0.027,0.556,0.636,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_76.mp3
+sample_77,0.047,0.011,0.247,0.305,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_77.mp3
+sample_78,0.029,0.01,0.264,0.303,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_78.mp3
+sample_79,0.061,0.015,0.244,0.321,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_79.mp3
+sample_80,0.035,0.01,0.21,0.256,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_80.mp3
+sample_81,0.046,0.024,0.257,0.327,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_81.mp3
+sample_82,0.027,0.017,0.24,0.285,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_82.mp3
+sample_83,0.089,0.024,0.537,0.65,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_83.mp3
+sample_84,0.057,0.019,0.233,0.309,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_84.mp3
+sample_85,0.023,0.01,0.238,0.272,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_85.mp3
+sample_86,0.032,0.015,0.252,0.3,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_86.mp3
+sample_87,0.023,0.009,0.227,0.259,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_87.mp3
+sample_88,0.024,0.014,0.23,0.268,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_88.mp3
+sample_89,0.039,0.022,0.427,0.487,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_89.mp3
+sample_90,0.024,0.033,0.562,0.62,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_90.mp3
+sample_91,0.049,0.012,0.236,0.297,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_91.mp3
+sample_92,0.043,0.013,0.227,0.284,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_92.mp3
+sample_93,0.046,0.017,0.249,0.311,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_93.mp3
+sample_94,0.035,0.011,0.207,0.253,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_94.mp3
+sample_95,0.019,0.023,0.258,0.301,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_95.mp3
+sample_96,0.048,0.021,0.267,0.336,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_96.mp3
+sample_97,0.03,0.017,0.252,0.3,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_97.mp3
+sample_98,0.045,0.017,0.263,0.326,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_98.mp3
+sample_99,0.029,0.026,0.498,0.554,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_99.mp3
+sample_100,0.055,0.027,0.48,0.561,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_100.mp3
+sample_101,0.036,0.013,0.23,0.279,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_101.mp3
+sample_102,0.037,0.014,0.225,0.276,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_102.mp3
+sample_103,0.018,0.01,0.216,0.244,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_103.mp3
+sample_104,0.025,0.01,0.214,0.248,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_104.mp3
+sample_105,0.021,0.009,0.278,0.309,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_105.mp3
+sample_106,0.051,0.025,0.612,0.688,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_106.mp3
+sample_107,0.073,0.009,0.225,0.307,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_107.mp3
+sample_108,0.04,0.013,0.208,0.261,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_108.mp3
+sample_109,0.032,0.009,0.208,0.249,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_109.mp3
+sample_110,0.023,0.03,0.453,0.507,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_110.mp3
+sample_111,0.027,0.014,0.271,0.313,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_111.mp3
+sample_112,0.036,0.016,0.34,0.392,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_112.mp3
+sample_113,0.024,0.019,0.213,0.256,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_113.mp3
+sample_114,0.036,0.066,1.113,1.215,aber am haben wir auch am am haben wir auch im norden haben wir haben wir noch noch am haben wir auch noch auch auch im norden haben wir auch noch nicht haben wir auch noch nicht auch auch auch im norden haben wir auch auch noch nicht haben wir auch auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_114.mp3
+sample_115,0.057,0.009,0.209,0.276,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_115.mp3
+sample_116,0.024,0.015,0.223,0.262,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_116.mp3
+sample_117,0.026,0.013,0.232,0.271,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_117.mp3
+sample_118,0.035,0.017,0.343,0.395,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_118.mp3
+sample_119,0.033,0.036,0.517,0.588,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_119.mp3
+sample_120,0.065,0.015,0.245,0.325,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_120.mp3
+sample_121,0.037,0.012,0.243,0.293,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_121.mp3
+sample_122,0.054,0.021,0.234,0.309,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_122.mp3
+sample_123,0.044,0.01,0.236,0.29,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_123.mp3
+sample_124,0.026,0.036,0.496,0.559,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_124.mp3
+sample_125,0.075,0.022,0.43,0.527,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_125.mp3
+sample_126,0.045,0.015,0.222,0.282,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_126.mp3
+sample_127,0.036,0.013,0.219,0.268,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_127.mp3
+sample_128,0.02,0.024,0.345,0.388,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_128.mp3
+sample_129,0.053,0.009,0.231,0.293,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_129.mp3
+sample_130,0.059,0.026,0.471,0.556,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_130.mp3
+sample_131,0.069,0.054,1.123,1.247,aber auch am haben wir auch am am wärmsten im norden haben wir haben wir haben wir noch noch auch am haben wir haben wir noch auch noch am wärmsten haben wir auch noch nicht auch auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_131.mp3
+sample_132,0.046,0.012,0.237,0.295,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_132.mp3
+sample_133,0.02,0.008,0.214,0.242,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_133.mp3
+sample_134,0.023,0.013,0.226,0.263,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_134.mp3
+sample_135,0.029,0.013,0.223,0.265,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_135.mp3
+sample_136,0.03,0.01,0.212,0.252,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_136.mp3
+sample_137,0.026,0.013,0.203,0.242,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_137.mp3
+sample_138,0.016,0.01,0.199,0.233,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_138.mp3
+sample_139,0.024,0.014,0.209,0.247,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_139.mp3
+sample_140,0.021,0.01,0.221,0.254,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_140.mp3
+sample_141,0.027,0.016,0.218,0.262,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_141.mp3
+sample_142,0.028,0.018,0.235,0.282,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_142.mp3
+sample_143,0.026,0.016,0.227,0.27,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_143.mp3
+sample_144,0.036,0.011,0.218,0.265,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_144.mp3
+sample_145,0.029,0.03,0.484,0.542,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_145.mp3
+sample_146,0.05,0.024,0.549,0.622,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_146.mp3
+sample_147,0.05,0.023,0.294,0.366,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_147.mp3
+sample_148,0.049,0.026,0.467,0.541,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_148.mp3
+sample_149,0.035,0.01,0.224,0.269,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_149.mp3
+sample_150,0.029,0.017,0.268,0.313,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_150.mp3
+sample_151,0.061,0.013,0.249,0.324,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_151.mp3
+sample_152,0.045,0.01,0.208,0.262,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_152.mp3
+sample_153,0.027,0.016,0.227,0.27,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_153.mp3
+sample_154,0.026,0.014,0.223,0.264,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_154.mp3
+sample_155,0.021,0.016,0.232,0.27,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_155.mp3
+sample_156,0.041,0.015,0.295,0.351,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_156.mp3
+sample_157,0.063,0.022,0.263,0.348,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_157.mp3
+sample_158,0.017,0.014,0.203,0.234,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_158.mp3
+sample_159,0.008,0.008,0.204,0.22,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_159.mp3
+sample_160,0.014,0.02,0.244,0.28,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_160.mp3
+sample_161,0.016,0.011,0.217,0.249,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_161.mp3
+sample_162,0.048,0.015,0.229,0.292,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_162.mp3
+sample_163,0.012,0.016,0.216,0.244,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_163.mp3
+sample_164,0.007,0.009,0.214,0.23,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_164.mp3
+sample_165,0.016,0.016,0.245,0.278,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_165.mp3
+sample_166,0.033,0.017,0.248,0.3,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_166.mp3
+sample_167,0.024,0.016,0.256,0.296,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_167.mp3
+sample_168,0.025,0.014,0.22,0.259,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_168.mp3
+sample_169,0.023,0.01,0.215,0.248,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_169.mp3
+sample_170,0.024,0.033,0.456,0.515,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_170.mp3
+sample_171,0.066,0.021,0.235,0.321,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_171.mp3
+sample_172,0.019,0.012,0.234,0.265,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_172.mp3
+sample_173,0.034,0.012,0.225,0.271,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_173.mp3
+sample_174,0.027,0.017,0.238,0.284,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_174.mp3
+sample_175,0.039,0.013,0.231,0.283,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_175.mp3
+sample_176,0.025,0.013,0.233,0.271,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_176.mp3
+sample_177,0.011,0.016,0.231,0.258,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_177.mp3
+sample_178,0.029,0.012,0.271,0.314,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_178.mp3
+sample_179,0.039,0.016,0.257,0.311,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_179.mp3
+sample_180,0.042,0.015,0.263,0.321,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_180.mp3
+sample_181,0.031,0.016,0.221,0.268,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_181.mp3
+sample_182,0.02,0.011,0.219,0.25,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_182.mp3
+sample_183,0.029,0.029,0.43,0.488,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_183.mp3
+sample_184,0.026,0.013,0.253,0.293,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_184.mp3
+sample_185,0.014,0.027,0.429,0.47,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_185.mp3
+sample_186,0.041,0.014,0.279,0.334,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_186.mp3
+sample_187,0.05,0.01,0.236,0.296,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_187.mp3
+sample_188,0.04,0.015,0.253,0.308,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_188.mp3
+sample_189,0.03,0.027,0.427,0.485,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_189.mp3
+sample_190,0.041,0.013,0.209,0.263,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_190.mp3
+sample_191,0.02,0.021,0.247,0.288,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_191.mp3
+sample_192,0.048,0.013,0.225,0.287,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_192.mp3
+sample_193,0.049,0.028,0.474,0.552,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_193.mp3
+sample_194,0.052,0.012,0.245,0.309,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_194.mp3
+sample_195,0.039,0.03,0.466,0.535,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_195.mp3
+sample_196,0.057,0.04,0.918,1.015,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir noch auch noch am wärmsten haben wir haben wir auch noch auch auch am wärmsten haben wir auch auch im norden haben wir auch auch im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_196.mp3
+sample_197,0.031,0.016,0.275,0.322,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_197.mp3
+sample_198,0.032,0.014,0.214,0.261,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_198.mp3
+sample_199,0.044,0.017,0.225,0.287,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_199.mp3
+sample_200,0.036,0.022,0.418,0.478,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_200.mp3
+sample_201,0.027,0.01,0.217,0.254,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_201.mp3
+sample_202,0.021,0.014,0.222,0.257,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_202.mp3
+sample_203,0.028,0.054,0.736,0.818,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir noch auch noch am wärmsten haben wir haben wir auch noch auch auch am wärmsten haben wir auch auch im norden haben wir auch auch im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_203.mp3
+sample_205,0.022,0.011,0.206,0.24,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_205.mp3
+sample_206,0.032,0.018,0.248,0.299,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_206.mp3
+sample_207,0.057,0.047,0.987,1.092,aber sind wir auch am am haben wir auch im norden haben wir haben noch noch am haben wir auch auch im norden haben wir auch auch noch haben wir auch noch nicht auch auch noch nicht haben wir auch noch nicht auch auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_207.mp3
+sample_208,0.03,0.021,0.217,0.267,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_208.mp3
+sample_209,0.026,0.012,0.246,0.285,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_209.mp3
+sample_210,0.041,0.012,0.216,0.269,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_210.mp3
+sample_211,0.012,0.024,0.479,0.515,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_211.mp3
+sample_212,0.035,0.013,0.209,0.257,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_212.mp3
+sample_213,0.006,0.012,0.216,0.234,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_213.mp3
+sample_214,0.029,0.017,0.375,0.422,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_214.mp3
+sample_215,0.046,0.015,0.211,0.273,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_215.mp3
+sample_216,0.006,0.006,0.268,0.28,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_216.mp3
+sample_217,0.028,0.021,0.329,0.378,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_217.mp3
+sample_218,0.028,0.015,0.237,0.28,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_218.mp3
+sample_219,0.032,0.029,0.445,0.508,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_219.mp3
+sample_220,0.054,0.029,0.479,0.562,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_220.mp3
+sample_221,0.042,0.011,0.241,0.294,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_221.mp3
+sample_222,0.029,0.009,0.215,0.252,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_222.mp3
+sample_223,0.015,0.014,0.224,0.254,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_223.mp3
+sample_224,0.033,0.021,0.247,0.302,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_224.mp3
+sample_225,0.041,0.034,0.477,0.553,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_225.mp3
+sample_226,0.029,0.016,0.21,0.255,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_226.mp3
+sample_227,0.042,0.016,0.219,0.277,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_227.mp3
+sample_228,0.02,0.013,0.216,0.25,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_228.mp3
+sample_229,0.012,0.015,0.205,0.232,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_229.mp3
+sample_230,0.032,0.017,0.259,0.308,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_230.mp3
+sample_231,0.028,0.013,0.207,0.248,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_231.mp3
+sample_232,0.033,0.016,0.246,0.296,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_232.mp3
+sample_233,0.023,0.013,0.214,0.251,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_233.mp3
+sample_234,0.036,0.029,0.526,0.593,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_234.mp3
+sample_235,0.053,0.009,0.275,0.337,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_235.mp3
+sample_236,0.043,0.023,0.271,0.337,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_236.mp3
+sample_237,0.021,0.013,0.227,0.262,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_237.mp3
+sample_238,0.039,0.012,0.207,0.258,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_238.mp3
+sample_239,0.049,0.021,0.25,0.32,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_239.mp3
+sample_240,0.03,0.042,0.47,0.542,aber auch tagsüber haben wir auch am am wärmsten im norden haben wir haben wir haben wir noch noch am haben wir haben wir auch noch auch auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_240.mp3
+sample_241,0.062,0.026,0.491,0.579,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_241.mp3
+sample_242,0.036,0.015,0.23,0.28,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_242.mp3
+sample_243,0.021,0.013,0.303,0.337,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_243.mp3
+sample_244,0.051,0.016,0.251,0.318,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_244.mp3
+sample_245,0.016,0.014,0.2,0.23,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_245.mp3
+sample_246,0.036,0.029,0.627,0.692,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_246.mp3
+sample_247,0.076,0.02,0.418,0.516,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_247.mp3
+sample_248,0.067,0.015,0.218,0.301,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_248.mp3
+sample_249,0.027,0.025,0.493,0.547,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_249.mp3
+sample_250,0.04,0.012,0.21,0.263,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_250.mp3
+sample_251,0.019,0.012,0.218,0.249,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_251.mp3
+sample_252,0.096,0.038,1.023,1.157,aber am haben wir auch am am haben wir haben wir noch im norden haben wir haben wir noch noch auch auch am haben wir haben wir noch auch noch am wärmsten haben wir auch noch nicht auch auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_252.mp3
+sample_253,0.049,0.019,0.504,0.573,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_253.mp3
+sample_254,0.041,0.015,0.216,0.272,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_254.mp3
+sample_255,0.03,0.016,0.232,0.279,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_255.mp3
+sample_256,0.022,0.011,0.21,0.243,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_256.mp3
+sample_257,0.02,0.033,0.599,0.652,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_257.mp3
+sample_258,0.067,0.015,0.25,0.333,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_258.mp3
+sample_259,0.053,0.014,0.214,0.282,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_259.mp3
+sample_260,0.027,0.018,0.252,0.297,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_260.mp3
+sample_261,0.038,0.012,0.224,0.275,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_261.mp3
+sample_262,0.044,0.027,0.456,0.526,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_262.mp3
+sample_263,0.036,0.016,0.211,0.263,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_263.mp3
+sample_264,0.023,0.023,0.256,0.304,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_264.mp3
+sample_265,0.054,0.013,0.24,0.307,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_265.mp3
+sample_266,0.032,0.016,0.212,0.26,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_266.mp3
+sample_267,0.013,0.013,0.224,0.25,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_267.mp3
+sample_268,0.011,0.013,0.204,0.228,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_268.mp3
+sample_269,0.03,0.026,0.69,0.747,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_269.mp3
+sample_270,0.043,0.023,0.233,0.298,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_270.mp3
+sample_271,0.019,0.012,0.219,0.25,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_271.mp3
+sample_272,0.025,0.015,0.238,0.278,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_272.mp3
+sample_273,0.042,0.031,0.512,0.585,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_273.mp3
+sample_274,0.05,0.017,0.242,0.308,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_274.mp3
+sample_275,0.04,0.017,0.245,0.304,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_275.mp3
+sample_276,0.027,0.01,0.21,0.247,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_276.mp3
+sample_277,0.05,0.03,0.479,0.559,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_277.mp3
+sample_278,0.028,0.022,0.235,0.285,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_278.mp3
+sample_279,0.035,0.013,0.235,0.283,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_279.mp3
+sample_280,0.021,0.015,0.211,0.248,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_280.mp3
+sample_281,0.018,0.024,0.454,0.496,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_281.mp3
+sample_282,0.033,0.029,0.445,0.507,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_282.mp3
+sample_283,0.046,0.028,0.451,0.525,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_283.mp3
+sample_284,0.029,0.017,0.217,0.262,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_284.mp3
+sample_285,0.037,0.022,0.485,0.545,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_285.mp3
+sample_286,0.053,0.02,0.257,0.33,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_286.mp3
+sample_287,0.044,0.011,0.237,0.294,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_287.mp3
+sample_288,0.033,0.039,0.518,0.591,aber auch tagsüber haben wir auch am am wärmsten im norden haben wir haben wir haben wir noch noch am haben wir haben wir auch noch auch auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_288.mp3
+sample_289,0.049,0.015,0.238,0.303,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_289.mp3
+sample_290,0.036,0.029,0.489,0.554,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_290.mp3
+sample_291,0.055,0.011,0.212,0.279,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_291.mp3
+sample_292,0.026,0.017,0.225,0.268,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_292.mp3
+sample_293,0.023,0.017,0.227,0.267,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_293.mp3
+sample_294,0.044,0.024,0.227,0.295,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_294.mp3
+sample_295,0.02,0.009,0.269,0.3,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_295.mp3
+sample_296,0.03,0.014,0.237,0.281,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_296.mp3
+sample_297,0.016,0.015,0.238,0.269,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_297.mp3
+sample_298,0.031,0.011,0.229,0.271,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_298.mp3
+sample_299,0.021,0.008,0.234,0.263,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_299.mp3
+sample_300,0.026,0.012,0.201,0.239,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_300.mp3
+sample_301,0.018,0.013,0.223,0.255,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_301.mp3
+sample_302,0.02,0.01,0.208,0.238,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_302.mp3
+sample_303,0.024,0.033,0.467,0.525,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_303.mp3
+sample_304,0.038,0.009,0.225,0.273,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_304.mp3
+sample_305,0.039,0.017,0.229,0.287,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_305.mp3
+sample_306,0.027,0.017,0.242,0.286,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_306.mp3
+sample_307,0.039,0.012,0.224,0.276,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_307.mp3
+sample_308,0.038,0.033,0.475,0.546,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_308.mp3
+sample_309,0.06,0.014,0.25,0.325,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_309.mp3
+sample_310,0.04,0.033,0.498,0.571,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_310.mp3
+sample_311,0.061,0.015,0.245,0.322,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_311.mp3
+sample_312,0.017,0.015,0.22,0.254,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_312.mp3
+sample_313,0.024,0.012,0.221,0.257,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_313.mp3
+sample_314,0.018,0.012,0.231,0.261,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_314.mp3
+sample_315,0.018,0.01,0.223,0.251,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_315.mp3
+sample_316,0.053,0.011,0.235,0.299,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_316.mp3
+sample_317,0.03,0.014,0.222,0.266,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_317.mp3
+sample_318,0.032,0.013,0.219,0.264,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_318.mp3
+sample_319,0.023,0.016,0.272,0.311,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_319.mp3
+sample_320,0.041,0.016,0.212,0.27,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_320.mp3
+sample_321,0.017,0.012,0.205,0.234,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_321.mp3
+sample_322,0.023,0.012,0.268,0.304,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_322.mp3
+sample_323,0.029,0.015,0.218,0.262,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_323.mp3
+sample_324,0.026,0.031,0.464,0.52,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_324.mp3
+sample_325,0.028,0.025,0.25,0.303,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_325.mp3
+sample_326,0.012,0.013,0.22,0.245,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_326.mp3
+sample_327,0.006,0.01,0.377,0.394,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_327.mp3
+sample_328,0.053,0.011,0.221,0.285,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_328.mp3
+sample_329,0.039,0.013,0.256,0.309,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_329.mp3
+sample_330,0.049,0.03,0.529,0.609,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_330.mp3
+sample_331,0.041,0.023,0.275,0.34,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_331.mp3
+sample_332,0.034,0.022,0.445,0.502,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_332.mp3
+sample_333,0.064,0.015,0.227,0.307,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_333.mp3
+sample_334,0.027,0.039,0.636,0.703,aber auch tagsüber haben wir auch am am wärmsten im norden haben wir haben wir haben wir noch noch am haben wir haben wir auch noch auch auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_334.mp3
+sample_335,0.045,0.023,0.256,0.324,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_335.mp3
+sample_336,0.048,0.012,0.217,0.277,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_336.mp3
+sample_337,0.019,0.012,0.206,0.238,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_337.mp3
+sample_338,0.022,0.01,0.216,0.248,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_338.mp3
+sample_339,0.009,0.009,0.225,0.243,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_339.mp3
+sample_340,0.012,0.009,0.237,0.26,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_340.mp3
+sample_341,0.063,0.027,0.429,0.521,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_341.mp3
+sample_342,0.045,0.016,0.236,0.298,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_342.mp3
+sample_343,0.016,0.016,0.21,0.241,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_343.mp3
+sample_344,0.013,0.012,0.217,0.242,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_344.mp3
+sample_345,0.023,0.012,0.213,0.249,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_345.mp3
+sample_346,0.04,0.023,0.243,0.306,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_346.mp3
+sample_347,0.034,0.016,0.242,0.292,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_347.mp3
+sample_348,0.055,0.013,0.217,0.285,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_348.mp3
+sample_349,0.027,0.015,0.263,0.305,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_349.mp3
+sample_350,0.022,0.014,0.23,0.266,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_350.mp3
+sample_351,0.032,0.023,0.246,0.302,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_351.mp3
+sample_352,0.042,0.009,0.2,0.25,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_352.mp3
+sample_353,0.032,0.04,0.477,0.549,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_353.mp3
+sample_354,0.034,0.011,0.211,0.256,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_354.mp3
+sample_355,0.017,0.013,0.21,0.24,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_355.mp3
+sample_356,0.025,0.017,0.255,0.296,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_356.mp3
+sample_357,0.054,0.01,0.24,0.304,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_357.mp3
+sample_358,0.036,0.007,0.214,0.257,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_358.mp3
+sample_359,0.045,0.026,0.473,0.545,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_359.mp3
+sample_360,0.027,0.012,0.228,0.268,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_360.mp3
+sample_361,0.037,0.012,0.21,0.258,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_361.mp3
+sample_362,0.03,0.015,0.263,0.309,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_362.mp3
+sample_363,0.055,0.014,0.244,0.313,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_363.mp3
+sample_364,0.019,0.01,0.245,0.276,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_364.mp3
+sample_365,0.026,0.017,0.226,0.27,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_365.mp3
+sample_366,0.03,0.012,0.219,0.262,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_366.mp3
+sample_367,0.012,0.012,0.224,0.25,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_367.mp3
+sample_368,0.025,0.014,0.224,0.263,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_368.mp3
+sample_369,0.022,0.021,0.425,0.469,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_369.mp3
+sample_370,0.032,0.018,0.24,0.29,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_370.mp3
+sample_371,0.02,0.007,0.195,0.223,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_371.mp3
+sample_372,0.018,0.011,0.207,0.235,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_372.mp3
+sample_373,0.008,0.012,0.222,0.242,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_373.mp3
+sample_374,0.019,0.029,0.454,0.502,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_374.mp3
+sample_375,0.05,0.014,0.271,0.336,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_375.mp3
+sample_376,0.027,0.017,0.23,0.275,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_376.mp3
+sample_377,0.029,0.015,0.22,0.265,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_377.mp3
+sample_378,0.026,0.009,0.209,0.244,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_378.mp3
+sample_379,0.007,0.015,0.247,0.269,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_379.mp3
+sample_380,0.024,0.012,0.239,0.277,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_380.mp3
+sample_381,0.034,0.012,0.244,0.291,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_381.mp3
+sample_382,0.039,0.047,0.86,0.945,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir noch auch noch am wärmsten haben wir haben wir auch noch auch auch am wärmsten haben wir auch auch im norden haben wir auch auch im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_382.mp3
+sample_383,0.062,0.011,0.262,0.336,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_383.mp3
+sample_384,0.049,0.042,0.761,0.852,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir noch auch noch am wärmsten haben wir haben wir auch noch auch auch am wärmsten haben wir auch auch im norden haben wir auch auch im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_384.mp3
+sample_385,0.036,0.014,0.222,0.273,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_385.mp3
+sample_386,0.029,0.009,0.206,0.244,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_386.mp3
+sample_387,0.021,0.013,0.293,0.327,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_387.mp3
+sample_388,0.03,0.017,0.22,0.267,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_388.mp3
+sample_389,0.032,0.012,0.216,0.261,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_389.mp3
+sample_390,0.009,0.024,0.245,0.278,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_390.mp3
+sample_391,0.032,0.031,0.749,0.812,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_391.mp3
+sample_392,0.058,0.025,0.461,0.544,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_392.mp3
+sample_393,0.022,0.011,0.213,0.246,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_393.mp3
+sample_394,0.027,0.018,0.249,0.295,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_394.mp3
+sample_395,0.032,0.045,0.514,0.592,aber auch tagsüber haben wir auch am am wärmsten im norden haben wir haben wir haben wir noch noch am haben wir haben wir auch noch auch auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_395.mp3
+sample_396,0.052,0.027,0.536,0.617,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_396.mp3
+sample_397,0.057,0.012,0.226,0.294,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_397.mp3
+sample_398,0.046,0.021,0.478,0.545,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_398.mp3
+sample_399,0.045,0.009,0.205,0.26,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_399.mp3
+sample_400,0.009,0.014,0.248,0.271,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_400.mp3
+sample_401,0.026,0.01,0.249,0.286,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_401.mp3
+sample_402,0.018,0.012,0.233,0.263,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_402.mp3
+sample_403,0.012,0.011,0.208,0.232,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_403.mp3
+sample_404,0.018,0.017,0.264,0.299,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_404.mp3
+sample_405,0.04,0.015,0.212,0.267,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_405.mp3
+sample_406,0.017,0.013,0.227,0.257,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_406.mp3
+sample_407,0.011,0.009,0.211,0.231,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_407.mp3
+sample_408,0.01,0.013,0.274,0.297,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_408.mp3
+sample_409,0.088,0.025,0.441,0.555,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_409.mp3
+sample_410,0.058,0.012,0.24,0.309,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_410.mp3
+sample_411,0.044,0.015,0.255,0.314,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_411.mp3
+sample_412,0.039,0.033,0.507,0.579,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_412.mp3
+sample_413,0.053,0.009,0.256,0.318,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_413.mp3
+sample_414,0.044,0.016,0.262,0.322,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_414.mp3
+sample_415,0.053,0.03,0.455,0.539,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_415.mp3
+sample_416,0.048,0.028,0.495,0.572,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_416.mp3
+sample_417,0.051,0.013,0.205,0.269,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_417.mp3
+sample_418,0.014,0.01,0.235,0.26,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_418.mp3
+sample_419,0.029,0.015,0.233,0.277,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_419.mp3
+sample_420,0.054,0.019,0.504,0.577,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_420.mp3
+sample_421,0.037,0.018,0.238,0.295,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_421.mp3
+sample_422,0.04,0.03,0.486,0.556,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_422.mp3
+sample_423,0.027,0.014,0.241,0.282,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_423.mp3
+sample_424,0.023,0.01,0.214,0.248,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_424.mp3
+sample_425,0.011,0.012,0.236,0.259,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_425.mp3
+sample_426,0.031,0.01,0.219,0.261,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_426.mp3
+sample_427,0.01,0.007,0.205,0.222,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_427.mp3
+sample_428,0.024,0.023,0.245,0.292,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_428.mp3
+sample_429,0.031,0.042,1.124,1.197,aber auch tagsüber haben wir auch am am wärmsten im norden haben wir haben wir haben wir noch noch am haben wir haben wir auch noch auch auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_429.mp3
+sample_430,0.031,0.014,1.112,1.157,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_430.mp3
+sample_431,0.043,0.018,1.13,1.192,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_431.mp3
+sample_432,0.035,0.016,0.247,0.298,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_432.mp3
+sample_433,0.018,0.019,0.267,0.304,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_433.mp3
+sample_434,0.028,0.013,0.227,0.269,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_434.mp3
+sample_435,0.012,0.014,0.237,0.264,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_435.mp3
+sample_436,0.034,0.015,0.299,0.348,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_436.mp3
+sample_437,0.056,0.013,0.249,0.318,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_437.mp3
+sample_438,0.031,0.016,0.246,0.293,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_438.mp3
+sample_439,0.049,0.015,0.253,0.317,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_439.mp3
+sample_441,0.05,0.019,0.441,0.51,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_441.mp3
+sample_442,0.027,0.014,0.243,0.284,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_442.mp3
+sample_443,0.032,0.02,0.245,0.297,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_443.mp3
+sample_444,0.011,0.014,0.224,0.25,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_444.mp3
+sample_445,0.036,0.025,0.437,0.499,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_445.mp3
+sample_446,0.049,0.012,0.218,0.279,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_446.mp3
+sample_447,0.009,0.006,0.23,0.246,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_447.mp3
+sample_448,0.027,0.026,0.454,0.507,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_448.mp3
+sample_449,0.039,0.013,0.198,0.252,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_449.mp3
+sample_450,0.022,0.013,0.234,0.27,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_450.mp3
+sample_451,0.024,0.014,0.212,0.25,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_451.mp3
+sample_452,0.01,0.01,0.227,0.247,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_452.mp3
+sample_453,0.01,0.011,0.331,0.352,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_453.mp3
+sample_454,0.055,0.031,0.602,0.689,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_454.mp3
+sample_455,0.036,0.034,0.466,0.536,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_455.mp3
+sample_456,0.046,0.012,0.246,0.305,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_456.mp3
+sample_457,0.036,0.014,0.25,0.3,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_457.mp3
+sample_458,0.028,0.017,0.271,0.316,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_458.mp3
+sample_459,0.045,0.041,0.695,0.781,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir noch auch noch am wärmsten haben wir haben wir auch noch auch auch am wärmsten haben wir auch auch im norden haben wir auch auch im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_459.mp3
+sample_460,0.04,0.008,0.208,0.255,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_460.mp3
+sample_461,0.017,0.008,0.22,0.246,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_461.mp3
+sample_462,0.04,0.037,0.503,0.58,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_462.mp3
+sample_463,0.085,0.019,0.242,0.346,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_463.mp3
+sample_464,0.03,0.031,0.501,0.563,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_464.mp3
+sample_465,0.052,0.015,0.234,0.301,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_465.mp3
+sample_466,0.049,0.023,0.245,0.317,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_466.mp3
+sample_467,0.013,0.011,0.241,0.265,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_467.mp3
+sample_468,0.024,0.028,0.605,0.657,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_468.mp3
+sample_469,0.043,0.028,0.464,0.535,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_469.mp3
+sample_470,0.054,0.031,0.499,0.585,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_470.mp3
+sample_471,0.047,0.032,0.479,0.558,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_471.mp3
+sample_472,0.049,0.008,0.226,0.283,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_472.mp3
+sample_473,0.013,0.012,0.243,0.269,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_473.mp3
+sample_474,0.037,0.028,0.483,0.548,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_474.mp3
+sample_475,0.046,0.028,0.493,0.567,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_475.mp3
+sample_476,0.05,0.013,0.238,0.302,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_476.mp3
+sample_477,0.032,0.014,0.203,0.249,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_477.mp3
+sample_478,0.015,0.012,0.224,0.252,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_478.mp3
+sample_479,0.03,0.013,0.2,0.243,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_479.mp3
+sample_480,0.01,0.015,0.23,0.256,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_480.mp3
+sample_481,0.025,0.012,0.237,0.274,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_481.mp3
+sample_482,0.025,0.009,0.212,0.246,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_482.mp3
+sample_483,0.011,0.017,0.236,0.265,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_483.mp3
+sample_484,0.023,0.012,0.247,0.282,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_484.mp3
+sample_485,0.027,0.018,0.258,0.303,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_485.mp3
+sample_486,0.017,0.011,0.203,0.231,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_486.mp3
+sample_487,0.026,0.012,0.226,0.265,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_487.mp3
+sample_488,0.017,0.012,0.476,0.505,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_488.mp3
+sample_489,0.033,0.012,0.223,0.269,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_489.mp3
+sample_490,0.042,0.012,0.21,0.264,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_490.mp3
+sample_491,0.03,0.012,0.233,0.276,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_491.mp3
+sample_492,0.01,0.015,0.224,0.251,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_492.mp3
+sample_493,0.014,0.009,0.209,0.232,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_493.mp3
+sample_494,0.027,0.017,0.255,0.301,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_494.mp3
+sample_495,0.045,0.011,0.233,0.289,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_495.mp3
+sample_496,0.032,0.03,0.501,0.564,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_496.mp3
+sample_497,0.052,0.015,0.251,0.319,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_497.mp3
+sample_498,0.014,0.01,0.207,0.23,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_498.mp3
+sample_499,0.021,0.011,0.223,0.255,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_499.mp3
+sample_500,0.03,0.019,0.238,0.287,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_500.mp3
+sample_501,0.045,0.017,0.277,0.34,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_501.mp3
+sample_502,0.023,0.019,0.23,0.273,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_502.mp3
+sample_503,0.014,0.012,0.224,0.25,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_503.mp3
+sample_504,0.013,0.015,0.315,0.344,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_504.mp3
+sample_505,0.036,0.015,0.259,0.312,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_505.mp3
+sample_506,0.029,0.01,0.196,0.235,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_506.mp3
+sample_507,0.027,0.012,0.239,0.278,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_507.mp3
+sample_508,0.024,0.023,0.27,0.317,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_508.mp3
+sample_509,0.034,0.018,0.254,0.307,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_509.mp3
+sample_510,0.035,0.028,0.425,0.488,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_510.mp3
+sample_511,0.027,0.015,0.214,0.256,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_511.mp3
+sample_512,0.019,0.01,0.218,0.247,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_512.mp3
+sample_513,0.067,0.01,0.231,0.308,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_513.mp3
+sample_514,0.045,0.017,0.229,0.292,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_514.mp3
+sample_515,0.029,0.031,0.483,0.543,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_515.mp3
+sample_516,0.02,0.017,0.241,0.278,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_516.mp3
+sample_517,0.037,0.017,0.243,0.297,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_517.mp3
+sample_518,0.023,0.01,0.22,0.253,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_518.mp3
+sample_519,0.024,0.066,0.438,0.529,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_519.mp3
+sample_520,0.054,0.034,0.49,0.578,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_520.mp3
+sample_521,0.038,0.012,0.206,0.256,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_521.mp3
+sample_522,0.029,0.018,0.223,0.27,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_522.mp3
+sample_523,0.018,0.017,0.282,0.317,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_523.mp3
+sample_524,0.034,0.033,0.507,0.573,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_524.mp3
+sample_525,0.04,0.02,0.275,0.335,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_525.mp3
+sample_526,0.038,0.032,0.473,0.543,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_526.mp3
+sample_527,0.025,0.011,0.254,0.291,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_527.mp3
+sample_528,0.034,0.014,0.206,0.254,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_528.mp3
+sample_529,0.016,0.019,0.233,0.269,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_529.mp3
+sample_530,0.036,0.022,0.239,0.297,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_530.mp3
+sample_531,0.028,0.033,0.492,0.554,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_531.mp3
+sample_532,0.037,0.016,0.215,0.267,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_532.mp3
+sample_533,0.021,0.033,0.453,0.507,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_533.mp3
+sample_534,0.015,0.013,0.221,0.25,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_534.mp3
+sample_535,0.022,0.012,0.214,0.249,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_535.mp3
+sample_536,0.012,0.012,0.239,0.263,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_536.mp3
+sample_537,0.039,0.008,0.226,0.274,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_537.mp3
+sample_538,0.01,0.009,0.205,0.224,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_538.mp3
+sample_539,0.063,0.011,0.213,0.286,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_539.mp3
+sample_540,0.037,0.06,0.999,1.096,aber sind wir auch am am haben wir haben wir noch noch im norden haben wir haben wir noch auch auch am haben wir haben wir noch auch auch noch am wärmsten haben wir auch noch nicht auch auch auch noch nicht haben wir auch noch nicht auch auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_540.mp3
+sample_541,0.011,0.027,0.471,0.509,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_541.mp3
+sample_542,0.04,0.009,0.341,0.39,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_542.mp3
+sample_543,0.047,0.017,0.276,0.341,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_543.mp3
+sample_544,0.015,0.02,0.243,0.278,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_544.mp3
+sample_545,0.028,0.011,0.216,0.256,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_545.mp3
+sample_546,0.027,0.017,0.266,0.31,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_546.mp3
+sample_547,0.025,0.011,0.212,0.249,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_547.mp3
+sample_548,0.039,0.008,0.198,0.245,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_548.mp3
+sample_549,0.025,0.01,0.228,0.263,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_549.mp3
+sample_550,0.037,0.015,0.266,0.319,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_550.mp3
+sample_551,0.034,0.012,0.244,0.29,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_551.mp3
+sample_552,0.013,0.015,0.235,0.263,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_552.mp3
+sample_553,0.013,0.016,0.334,0.363,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_553.mp3
+sample_554,0.023,0.014,0.219,0.256,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_554.mp3
+sample_555,0.025,0.011,0.195,0.231,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_555.mp3
+sample_556,0.022,0.031,0.51,0.565,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_556.mp3
+sample_557,0.048,0.012,0.21,0.272,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_557.mp3
+sample_558,0.013,0.012,0.217,0.242,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_558.mp3
+sample_559,0.007,0.007,0.218,0.232,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_559.mp3
+sample_560,0.05,0.02,0.23,0.301,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_560.mp3
+sample_561,0.022,0.011,0.254,0.287,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_561.mp3
+sample_562,0.034,0.011,0.211,0.256,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_562.mp3
+sample_563,0.012,0.012,0.245,0.268,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_563.mp3
+sample_564,0.011,0.012,0.207,0.231,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_564.mp3
+sample_565,0.021,0.015,0.218,0.254,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_565.mp3
+sample_566,0.012,0.009,0.215,0.236,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_566.mp3
+sample_567,0.022,0.033,0.544,0.599,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_567.mp3
+sample_568,0.049,0.027,0.506,0.583,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_568.mp3
+sample_569,0.043,0.017,0.224,0.286,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_569.mp3
+sample_570,0.035,0.031,0.221,0.287,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_570.mp3
+sample_571,0.041,0.017,0.252,0.31,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_571.mp3
+sample_572,0.037,0.053,0.239,0.329,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_572.mp3
+sample_573,0.015,0.012,0.188,0.215,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_573.mp3
+sample_574,0.056,0.024,0.582,0.661,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_574.mp3
+sample_575,0.052,0.016,0.251,0.319,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_575.mp3
+sample_576,0.046,0.013,0.242,0.303,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_576.mp3
+sample_577,0.031,0.031,0.473,0.534,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_577.mp3
+sample_578,0.039,0.031,0.423,0.493,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_578.mp3
+sample_579,0.021,0.013,0.222,0.256,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_579.mp3
+sample_580,0.017,0.011,0.257,0.286,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_580.mp3
+sample_581,0.029,0.016,0.293,0.339,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_581.mp3
+sample_582,0.032,0.014,0.229,0.275,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_582.mp3
+sample_583,0.024,0.034,0.464,0.522,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_583.mp3
+sample_584,0.029,0.015,0.223,0.266,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_584.mp3
+sample_585,0.035,0.054,0.974,1.063,aber sind wir auch am am haben wir haben wir noch noch am haben wir haben noch noch haben wir auch auch im norden haben wir auch auch noch haben wir auch noch nicht auch auch auch noch nicht haben wir auch noch nicht auch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_585.mp3
+sample_586,0.016,0.016,0.253,0.285,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_586.mp3
+sample_587,0.029,0.018,0.3,0.346,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_587.mp3
+sample_588,0.029,0.017,0.227,0.274,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_588.mp3
+sample_589,0.029,0.033,0.461,0.524,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_589.mp3
+sample_590,0.06,0.017,0.277,0.355,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_590.mp3
+sample_591,0.038,0.013,0.226,0.277,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_591.mp3
+sample_592,0.021,0.014,0.219,0.254,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_592.mp3
+sample_593,0.018,0.012,0.236,0.267,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_593.mp3
+sample_594,0.031,0.012,0.221,0.265,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_594.mp3
+sample_595,0.047,0.026,0.472,0.544,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir auch im norden haben wir haben wir auch noch nicht,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_595.mp3
+sample_596,0.015,0.014,0.2,0.229,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_596.mp3
+sample_597,0.012,0.009,0.212,0.233,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_597.mp3
+sample_598,0.022,0.031,0.659,0.713,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_598.mp3
+sample_599,0.022,0.034,0.471,0.528,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_599.mp3
+sample_600,0.029,0.016,0.228,0.273,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_600.mp3
+sample_601,0.038,0.016,0.261,0.316,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_601.mp3
+sample_602,0.04,0.012,0.211,0.263,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_602.mp3
+sample_603,0.034,0.023,0.282,0.339,aber tagsüber haben wir auch am wärmsten im süden auch im norden haben wir auch noch nicht ganz warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_603.mp3
+sample_604,0.038,0.012,0.221,0.271,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_604.mp3
+sample_605,0.015,0.01,0.215,0.24,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_605.mp3
+sample_606,0.007,0.011,0.194,0.212,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_606.mp3
+sample_607,0.034,0.035,0.53,0.599,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_607.mp3
+sample_608,0.04,0.012,0.211,0.263,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_608.mp3
+sample_609,0.033,0.018,0.231,0.283,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_609.mp3
+sample_610,0.024,0.01,0.219,0.253,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_610.mp3
+sample_611,0.027,0.017,0.278,0.323,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_611.mp3
+sample_612,0.04,0.014,0.226,0.28,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_612.mp3
+sample_613,0.025,0.016,0.238,0.279,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_613.mp3
+sample_614,0.063,0.02,0.427,0.511,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_614.mp3
+sample_615,0.052,0.03,0.473,0.555,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_615.mp3
+sample_616,0.04,0.014,0.221,0.276,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_616.mp3
+sample_617,0.011,0.008,0.213,0.234,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_617.mp3
+sample_618,0.025,0.015,0.205,0.244,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_618.mp3
+sample_619,0.045,0.016,0.231,0.293,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_619.mp3
+sample_620,0.028,0.012,0.209,0.249,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_620.mp3
+sample_621,0.034,0.014,0.233,0.282,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_621.mp3
+sample_622,0.021,0.01,0.2,0.231,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_622.mp3
+sample_623,0.012,0.013,0.213,0.238,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_623.mp3
+sample_624,0.017,0.013,0.214,0.245,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_624.mp3
+sample_625,0.026,0.019,0.233,0.279,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_625.mp3
+sample_626,0.031,0.012,0.249,0.291,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_626.mp3
+sample_627,0.029,0.027,0.435,0.491,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_627.mp3
+sample_628,0.055,0.028,0.47,0.554,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_628.mp3
+sample_629,0.02,0.009,0.253,0.283,am alpenrand ist es dann noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_629.mp3
+sample_630,0.042,0.013,0.35,0.407,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_630.mp3
+sample_631,0.036,0.011,0.245,0.293,dazu haben wir auch tagsüber noch es überall noch,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_631.mp3
+sample_632,0.019,0.028,0.426,0.474,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_632.mp3
+sample_633,0.029,0.017,0.225,0.271,wir haben wir auch am wärmsten im süden auch es auch wieder warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_633.mp3
+sample_634,0.025,0.021,0.464,0.511,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_634.mp3
+sample_635,0.017,0.015,0.209,0.241,dazu haben wir noch überall überall noch drei grad,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_635.mp3
+sample_636,0.017,0.014,0.214,0.245,sonst sind es dann noch überall überall,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_636.mp3
+sample_637,0.015,0.036,0.461,0.512,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_637.mp3
+sample_638,0.054,0.029,0.495,0.579,aber auch tagsüber auch im norden haben wir auch im norden haben wir haben wir haben wir auch im norden haben wir auch noch nicht auch warm,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_638.mp3
+sample_639,0.021,0.017,0.23,0.267,wir haben wir auch noch es überall noch kalt im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_639.mp3
+sample_640,0.033,0.018,0.235,0.286,wir haben wir auch noch es auch im süden auch ganz im süden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_640.mp3
+sample_641,0.033,0.026,0.437,0.497,aber wir haben wir auch am wärmsten im süden auch im süden auch haben wir auch noch nicht ganz im norden,D:\Graduate Project\F\results_baseline\tts_outputs_baseline\sample_641.mp3
